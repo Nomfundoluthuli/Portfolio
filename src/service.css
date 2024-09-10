@@ -1,0 +1,19 @@
+.services {
+    background-color: #1c1c1c;
+  }
+  
+  .service-box {
+    padding: 30px;
+    background: #2c2c2c;
+    border-radius: 10px;
+  }
+  
+  .service-box h3 {
+    margin-top: 20px;
+    font-size: 1.5rem;
+  }
+  
+  .service-box p {
+    font-size: 1rem;
+    color: #cccccc;
+  }
